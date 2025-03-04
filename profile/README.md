@@ -9,8 +9,17 @@ Welcome to the **evoteum** GitHub profile!
 ## 🔹 About Us  
 At **evoteum**, we believe in **practical innovation**. We like to solve real-world problems.
 
+We believe in [freedom](https://en.wikipedia.org/wiki/Free_software), so we publish everything that we do under free
+licences and use free tools wherever we can. For example,
 
-## Our Repositories
+| Instead of... | ...we use     |
+|---------------|---------------|
+| Dockerfile    | Containerfile |
+| Dockerhub     | Quay.io       |
+| Terraform     | OpenTofu      |
+
+
+## Getting started
 🔹 **[estate-repos](https://github.com/evoteum/estate-repos)** is where we define and manage all our repos.
 This is also a good way to see what each repo is about in a single glance.
 
