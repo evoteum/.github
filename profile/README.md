@@ -20,36 +20,15 @@ licences and use free tools wherever we can. For example,
 
 
 ## Getting started
-🔹 **[estate-repos](https://github.com/evoteum/estate-repos)** is where we define and manage all our repos.
-This is also a good way to see what each repo is about in a single glance.
+🔹 **[estate-repos](https://github.com/evoteum/estate-repos)** configures all our repositories using
+[repos.yml](https://github.com/evoteum/estate-repos/blob/main/repos.yml). Key automations include;
 
-[//]: # (REPOS_START)
+- **Repository Management**: Automates creation, configuration, and updates for GitHub repositories, including standardised documentation and variable handling.
+- **Base Infrastructure Management**: Manages required infrastructure such as Quay.io repositories.
+- **GitHub Actions Management**: Deploys and updates workflows automatically across repositories, using centralised, reusable configurations.
 
-```yaml
-.github:
-  description: GitHub configuration
-discussions:
-  description: Community Discussions
-  has_discussions: true
-  has_downloads: false
-  has_issues: false
-estate-config:
-  description: Configuration for the estate
-estate-reusable-workflows:
-  description: Reusable GitHub Actions workflows
-evoteum.github.io:
-  description: Evoteum's website
-planzoco:
-  description: Every question finds its best answer
-testy-mctestface:
-  description: Sandbox for testing
-tofu-modules:
-  description: Modules for OpenTofu
-```
-
-[//]: # (REPOS_END)
-
-
+It is also a good way to see what each repo is
+about in a single glance.
 
 ---
 
