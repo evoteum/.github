@@ -1,9 +1,9 @@
 name: update-repos-list
 
 on:
-  repository_dispatch:
-    types:
-      [update-repos-list]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
 
 jobs:
   update-repos:
