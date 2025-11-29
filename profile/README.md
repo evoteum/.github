@@ -78,7 +78,7 @@ A group event coordination system built using our [orange Golden Path](golden_pa
   - It is hard to define success metrics, then surface them for observability.
   - "Christmasyness" is an emotional, subjective concept that is hard to measure consistently.
 - Solution:
-  - Use the popularity of “It is Beginning to Look a Lot Like Christmas” as a measurable proxy and graph it automatically using GitHub Actions.
+  - Use the popularity of "It is Beginning to Look a Lot Like Christmas" as a measurable proxy and graph it automatically using GitHub Actions.
 
 A fully automated GitHub Actions data pipeline that pulls data, updates the site and graphs the onset of Christmas.
 
