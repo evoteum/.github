@@ -72,8 +72,7 @@ A group event coordination system built using our [orange Golden Path](golden_pa
 
 
 ### It's Beginning to Look a Lot Like Christmas
-#### https://itsbeginningtolookalotlike.christmas
-_Python, Terraform, GitHub Actions, GitHub Pages_
+[itsbeginningtolookalotlike.christmas](https://itsbeginningtolookalotlike.christmas) | Python, Terraform, GitHub Actions_
 
 - Pain:
   - It is hard to define success metrics, then surface them for observability.
