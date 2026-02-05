@@ -22,6 +22,8 @@ We believe in,
 
 These projects show how we apply our engineering philosophy to create business value.
 
+For optional deeper technical write-ups of selected projects, see [portfolio](portfolio.md).
+
 ### Evoteum Metal Kubernetes Lab
 
 [evoteum/kubernetes-lab](https://github.com/evoteum/kubernetes-lab) | _Kubernetes (multi-architecture), Ansible, ArgoCD, HAProxy, Keepalived, Helm, Cilium_
